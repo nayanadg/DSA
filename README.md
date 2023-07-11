@@ -1,10 +1,10 @@
 # DSA-375
 
 DSA Topic wise Codes:
-1. Arrays<br />
-2.String<br />
-3.Searching<br />
-4.Sorting<br />
+*Arrays<br />
+*String<br />
+*Searching<br />
+*Sorting<br />
 5.Stacks<br />
 6.Queues<br />
 7.Linked List<br />
