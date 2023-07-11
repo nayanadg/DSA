@@ -1,4 +1,4 @@
-# DSA-375
+# DSA
 
 DSA Topic wise Codes:
 * Arrays<br />
