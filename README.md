@@ -1,8 +1,8 @@
 # DSA-375
 
 DSA Topic wise Codes:
-*Arrays<br />
-*String<br />
+* Arrays<br />
+* String<br />
 *Searching<br />
 *Sorting<br />
 5.Stacks<br />
