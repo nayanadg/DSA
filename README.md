@@ -2,14 +2,14 @@
 
 DSA Topic wise Codes:
 1. Arrays<br />
-2.String
-3.Searching
-4.Sorting
-5.Stacks
-6.Queues
-7.Linked List
-8.BFS
-9.DFS
-10.Backtracking
+2.String<br />
+3.Searching<br />
+4.Sorting<br />
+5.Stacks<br />
+6.Queues<br />
+7.Linked List<br />
+8.BFS<br />
+9.DFS<br />
+10.Backtracking<br />
       
 **Repository is still under editing process.
