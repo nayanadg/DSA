@@ -1,7 +1,7 @@
 # DSA-375
 
 DSA Topic wise Codes:
-1. Arrays
+1. Arrays\
 2.String
 3.Searching
 4.Sorting
